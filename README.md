@@ -121,7 +121,7 @@ Expected Outcome
 
 The final output is a tourism promotion documentary that presents Ethiopian historical, cultural, and natural heritage sites in a visually appealing and informative manner.
 
----
+-
 
 Course
 
